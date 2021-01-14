@@ -1,0 +1,2 @@
+# spark-funds-investments-project
+Spark Funds wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively.to solve this I use jupyter notbook,numpy,pandas,matplotlib,seaborn.
